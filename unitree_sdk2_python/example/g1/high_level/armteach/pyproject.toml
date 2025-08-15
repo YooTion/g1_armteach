@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=42"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "armteach"
+version = "0.1.0"
+description = "Unitree G1机械臂示教与回放工具"
+authors = [{ name="ZhouYangxin", email="zhouyx00@126.com" }]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.7"
+
+[tool.setuptools.packages.find]
+where = ["."]

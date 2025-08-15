@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: armteach
+Version: 0.1.0
+Summary: Unitree G1机械臂示教与回放工具
+Author-email: ZhouYangxin <zhouyx00@126.com>
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
